@@ -9,6 +9,4 @@ function createEvent() {
 
     document.getElementById("message").innerText =
         "Event '" + name + "' created successfully!";
-        console.log("Student registration feature added");
-
 }
